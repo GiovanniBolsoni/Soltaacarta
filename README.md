@@ -1,6 +1,6 @@
 # Soltaacarta
 ------------------------------------------
-##Integrantes:
+## Integrantes:
 
 Gabriel Gardilin Passos Avelino - 823124421
 
