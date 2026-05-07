@@ -1,6 +1,6 @@
 # Soltaacarta - Generate AI
 
-Generate AI é um projeto acadêmico que utiliza a API do Google Gemini para gerar conteúdos automaticamente a partir de uma ideia fornecida pelo usuário. A aplicação possui uma interface simples e intuitiva, permitindo escolher diferentes tipos de resposta, como post para redes sociais, títulos, resumos e reescrita de textos.
+Generate AI é um projeto acadêmico que utiliza a API do GroqCloud para gerar conteúdos automaticamente a partir de uma ideia fornecida pelo usuário. A aplicação possui uma interface simples e intuitiva, permitindo escolher diferentes tipos de resposta, como post para redes sociais, títulos, resumos e reescrita de textos.
 
 O projeto demonstra, na prática, a integração de inteligência artificial em aplicações web, além de reforçar conceitos de consumo de APIs, front-end e experiência do usuário.
 
