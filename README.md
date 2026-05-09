@@ -4,8 +4,10 @@
 
 **Geração de conteúdo inteligente com IA — direto no navegador.**
 
-<img src="..//imagens/generate-ai-photo.png" alt="Foto desmostrativa do Generate-Ai">
-<img src="..//imagens/generate-ai-photo2.png" alt="Foto desmostrativa do Generate-Ai">
+<p>
+    <img src="..//imagens/generate-ai-photo.png" alt="Foto desmostrativa do Generate-Ai">
+    <img src="..//imagens/generate-ai-photo2.png" alt="Foto desmostrativa do Generate-Ai">
+</p>
 
 </div>
 
@@ -70,9 +72,8 @@ Abra o arquivo `index.html` no seu navegador — ou use uma extensão como **Liv
 2. Gere uma **API Key** no painel
 3. Insira a chave no projeto conforme indicado no arquivo de configuração
 
-```js
-// Exemplo — substitua pela sua chave
-const API_KEY = "sua_chave_aqui";
+```.env
+GROQ_API_KEY="sua_chave_aqui"
 ```
 
 > 🔒 Nunca compartilhe sua chave de API publicamente nem a envie para o repositório.
