@@ -65,6 +65,22 @@ function App() {
 
   return (
     <div className="app">
+
+    <video
+      autoPlay
+      muted
+      playsInline
+      className="fundo-espacial"
+      onTimeUpdate={(e) => {
+        const video = e.target
+        if (video.duration - video.currentTime < 1.5) {
+          video.currentTime = 0
+      }
+      }}
+      >
+      <source src="/fundo-espacial.mp4" type="video/mp4" />
+    </video>
+
       <Header />
 
       <main className="container">
@@ -87,7 +103,7 @@ function App() {
           />
 
           <button type="submit" className="botao">
-            Gerar conteúdo
+            Gerar
           </button>
         </form>
 
