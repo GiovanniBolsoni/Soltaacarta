@@ -4,10 +4,8 @@
 
 **Geração de conteúdo inteligente com IA — direto no navegador.**
 
-<p>
-    <img src="..//imagens/generate-ai-photo.png" alt="Foto desmostrativa do Generate-Ai">
-    <img src="..//imagens/generate-ai-photo2.png" alt="Foto desmostrativa do Generate-Ai">
-</p>
+<img src="/imagens/generate-ai-photo.png" alt="Foto desmostrativa do Generate-Ai">
+<img src="/imagens/generate-ai-photo2.png" alt="Foto desmostrativa do Generate-Ai">
 
 </div>
 
